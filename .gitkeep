@@ -1,0 +1,4 @@
+backend/uploads/.gitkeep
+backend/extracted_images/.gitkeep
+backend/metadata/.gitkeep
+logs/.gitkeep
